@@ -5,8 +5,15 @@ class Solution(object):
         :type weights: List[int]
         :rtype: str
         """
-        ans=[]
-        for w in words:
-            Sum=sum( weights[ord(c)-97] for c in w)
-            ans.append(chr(97+25-Sum%26))
-        return "".join(ans)
+        res=""
+        for i in words:
+            ww=0
+            for j in i:
+                char_index= ord(j)-97
+                ww+=weights[char_index]
+            remainder=ww%26
+            mappend_char=chr(122-remainder)
+            res+=mappend_char
+        return res
+
+
