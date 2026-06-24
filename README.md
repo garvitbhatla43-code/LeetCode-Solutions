@@ -21,6 +21,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | ------- |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1389-create-target-array-in-the-given-order](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3838-weighted-word-mapping](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -63,6 +64,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [3838-weighted-word-mapping](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
