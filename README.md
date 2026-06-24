@@ -22,6 +22,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3838-weighted-word-mapping](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -63,4 +64,24 @@ Solutions are organized by topic and difficulty to keep things organized:
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
+## Math
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
