@@ -22,6 +22,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1389-create-target-array-in-the-given-order](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -31,6 +32,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | ------- |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +42,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | ------- |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Heap (Priority Queue)
 |  |
