@@ -26,6 +26,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | [1636-sort-array-by-increasing-frequency](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -73,6 +74,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3838-weighted-word-mapping](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -102,4 +104,8 @@ Solutions are organized by topic and difficulty to keep things organized:
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
