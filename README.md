@@ -20,6 +20,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1389-create-target-array-in-the-given-order](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -36,6 +37,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
@@ -114,4 +116,5 @@ Solutions are organized by topic and difficulty to keep things organized:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
