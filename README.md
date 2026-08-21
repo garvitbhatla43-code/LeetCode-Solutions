@@ -34,6 +34,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -68,6 +69,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [3838-weighted-word-mapping](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -108,4 +110,8 @@ Solutions are organized by topic and difficulty to keep things organized:
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
