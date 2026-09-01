@@ -23,6 +23,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | [0219-contains-duplicate-ii](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1389-create-target-array-in-the-given-order](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -39,6 +40,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
 |  |
@@ -49,6 +51,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | ------- |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -64,6 +67,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Quickselect
 |  |
 | ------- |
@@ -117,4 +121,5 @@ Solutions are organized by topic and difficulty to keep things organized:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
