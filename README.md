@@ -77,6 +77,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3838-weighted-word-mapping](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -122,4 +123,5 @@ Solutions are organized by topic and difficulty to keep things organized:
 | [0003-longest-substring-without-repeating-characters](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
