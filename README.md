@@ -38,6 +38,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -78,6 +79,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3838-weighted-word-mapping](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -100,6 +102,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -123,8 +126,25 @@ Solutions are organized by topic and difficulty to keep things organized:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
