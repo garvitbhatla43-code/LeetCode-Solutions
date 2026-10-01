@@ -20,6 +20,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -92,6 +93,7 @@ Solutions are organized by topic and difficulty to keep things organized:
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -147,4 +149,8 @@ Solutions are organized by topic and difficulty to keep things organized:
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/garvitbhatla43-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
